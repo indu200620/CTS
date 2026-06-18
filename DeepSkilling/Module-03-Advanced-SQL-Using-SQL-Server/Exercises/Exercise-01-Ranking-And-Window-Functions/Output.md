@@ -20,3 +20,4 @@ RANK assigns the same rank for tied values and skips the next rank.
 DENSE_RANK assigns the same rank for tied values without skipping ranks.
 
 PARTITION BY performs ranking separately for each category.
+![alt text](Exercise01_Output.png)
