@@ -1,0 +1,4 @@
+Concepts Used
+
+- PIVOT
+- UNPIVOT
