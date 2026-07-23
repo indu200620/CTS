@@ -250,13 +250,13 @@ The repository will continue to grow with additional DeepSkilling modules and ha
 
 # Author
 
-**Pramod Munaganuri**
+**G.INDU**
 
 B.Tech – Cybersecurity
 
 Vignan's Foundation for Science, Technology and Research
 
-GitHub: https://github.com/pramod5076
+GitHub: https://github.com/indu200620/CTS
 
 ---
 
