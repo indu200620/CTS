@@ -250,7 +250,7 @@ The repository will continue to grow with additional DeepSkilling modules and ha
 
 # Author
 
-**G.INDU**
+**Gude Indu**
 
 B.Tech – Cybersecurity
 
